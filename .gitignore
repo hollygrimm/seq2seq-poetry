@@ -1,0 +1,9 @@
+#input files
+poetry/
+#output files
+vocab.pkl
+#checkpoints
+checkpoint
+dynamic-seq2seq*
+# Byte-compiled / optimized / DLL files
+__pycache__/
