@@ -57,3 +57,7 @@ Infer a 10 line poem using the trained model and an initial input sequence:
 python seq2seq_poetry_inference.py
 ```
 Increase softmax_temperature to inject more uncertainty, decrease softmax_temperature for less random results closer to argmax.
+
+## Author
+- Author: [@pkmital](https://github.com/pkmital)
+- Contributor: [@hollygrimm](https://github.com/hollygrimm)
